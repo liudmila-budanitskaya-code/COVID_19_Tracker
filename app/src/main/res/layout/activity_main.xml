@@ -32,8 +32,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@{String.valueOf(viewModel.userAge)}"
-                android:visibility="@{View.INVISIBLE}"/>
+                android:text="@{String.valueOf(viewModel.userAge)}" />
 
 
         </LinearLayout>
