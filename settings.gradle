@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "AndroidMVVMBasics"
+rootProject.name = "COVID-19 Tracker"
